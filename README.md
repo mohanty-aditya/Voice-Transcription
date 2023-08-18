@@ -11,3 +11,6 @@ If you are using it in your own desktop locally then few things should be preins
 All the other files are included in the code which arent be requires to be downloaded again manually
 
 But since locally it won't allow to run the microphone it would be highly recommended to use it on collab .
+![process](https://github.com/mohanty-aditya/Voice-Transcription/assets/123715445/0609c3c1-6bc4-4b61-9758-8a78aac5e8f9)
+
+
